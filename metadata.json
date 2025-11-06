@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Storyteller",
+  "description": "Have a real-time voice conversation with a gentle, childlike storyteller powered by the Gemini 2.5 Native Audio (Live) API. The app provides real-time audio responses and transcription.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
